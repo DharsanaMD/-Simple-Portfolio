@@ -1,4 +1,4 @@
-# -Simple-Portfolio
+# Simple-Portfolio-Website
 
 This is a simple portfolio website created using HTML and CSS, showcasing my professional profile. The website includes the following sections:
 
